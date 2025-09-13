@@ -1,1 +1,3 @@
-#Task-02 Hackerank challenge completed.
+# Hackerank Challenge 
+
+## Completed Hackerank challenge
